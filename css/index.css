@@ -1,0 +1,31 @@
+.news-content .section-news li{
+    padding: 10px;
+}
+.news-content .section-hot li:hover{
+    background-color: darkolivegreen;
+}
+.news-content .section-reality li:hover{
+    background-color: cadetblue;
+}
+.news-content .section-hot .footer{
+    color: darkolivegreen;
+}
+.news-content  .section-reality .footer{
+    color: cadetblue;
+}
+.news-content .section-news .footer{
+    background-color: white;
+}
+.news-content .section-news li:hover a{
+    color: white;
+}
+.news-content .section-news h2{
+    color: white;
+    padding: 10px;
+}
+.news-content .section-hot h2{
+    background-color: darkolivegreen;
+}
+.news-content .section-reality h2{
+    background-color: cadetblue;
+}
